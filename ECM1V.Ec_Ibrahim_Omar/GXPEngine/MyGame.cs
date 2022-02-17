@@ -12,6 +12,8 @@ public class MyGame : Game
 		AddChild(menu);
 		HUD hud = new HUD();
 		AddChild(hud);
+		//wgfyuwegiuwg 
+		ImageID
 		
 
 
